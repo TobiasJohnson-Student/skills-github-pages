@@ -3,8 +3,6 @@ title: "My Experiences"
 date: 2025-10-01
 ---
 
-# My experiences
-
 Before coming to the University of Connecticut, I studied at Bethel High School in Bethel, CT.
 There, I had many experiences relating to science and related fields:
 
